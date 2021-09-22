@@ -19,3 +19,7 @@ After the overview will be the recipe itself with instructions
 To close the recipe I want to include a different image from homepage showing the dish
 
 ^^Above written before project started^^
+
+This is after finishing the project
+
+I feel like that was a really interesting challenge. I for sure didn't feel out of my depth with what I did but this certainly took longer than I would have atticipated. For sure excited with the finished product. I love that I included some extra info on the pages as well as additional links to other webpages outside of the recipe. I also like that I changed the hyperlink in the images from wiki on the index page to the recipe page so that both clickable selections take you to the same page. 
